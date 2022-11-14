@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./astro.jpg");
+    background-size: cover;
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+}
